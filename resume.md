@@ -1,3 +1,6 @@
 # Luca Burns
 - Email: lucaburns@mines.edu
 - Location: Golden, CO
+
+## Education
+- BSc. Engineering Physics, Colorado School of Mines (2025)
