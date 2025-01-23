@@ -7,3 +7,4 @@
 - BSc. Engineering Physics, Colorado School of Mines (2025)
 
 ## Relevant Coursework
+- Senior Design Capstone
