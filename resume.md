@@ -2,7 +2,8 @@
 - Email: 776LAB@gmail.com
 - Location: Houston, TX
 - [LinkedIn Profile](https://www.linkedin.com/in/luca-burns-72ab1424b/)
-![](Luca_Burns.JPEG)
+
+![](IMG_2242.JPG)
 ##  **Education**
 - MSc. Computational and Applied Math, Colorado School of Mines (2026)
 - BSc. Engineering Physics, Colorado School of Mines (2025)
